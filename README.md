@@ -7,7 +7,7 @@ An AI-powered web application that fetches a developer's GitHub profile data usi
 ## ✨ Features
 
 * **In-Depth GitHub Metrics**: Pulls contribution stats, repository details, primary languages, pull requests, and README contents via GitHub GraphQL API.
-* **AI-Generated Roasts**: Integrates with Groq / OpenAI to deliver customized, hilarious developer roasts.
+* **AI-Generated Roasts**: Integrates with Groq to deliver customized, hilarious developer roasts.
 * **Clean UI**: Built with React and styled using Tailwind CSS for a fast, responsive user experience.
 * **Input Flexibility**: Accepts both raw GitHub usernames and full profile URLs.
 
